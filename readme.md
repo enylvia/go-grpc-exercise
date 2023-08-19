@@ -35,8 +35,3 @@ Bidirectional Stream RPC enables both the client and server to send streams of m
 ## Contributing
 
 Feel free to contribute by adding more examples, improving documentation, or suggesting enhancements.
-
-## License
-
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
